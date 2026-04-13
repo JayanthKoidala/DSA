@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Auto-Commit Solutions
 
 Automatically saves your accepted LeetCode submissions to GitHub. Solve a problem, and within 10 minutes it's committed — no manual effort.
@@ -83,3 +84,7 @@ auto-commit-solutions/
         ├── two-sum.py
         └── jump-game.py
 ```
+=======
+# DSA
+Daily Practice in LeetCode
+>>>>>>> 7b315b13fdad3ef7b9f65a70ac6aac7312ce275c
