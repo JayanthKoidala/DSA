@@ -1,1 +1,3 @@
 config.json
+logs\leetcode.log
+logs\seen_leetcode.json
